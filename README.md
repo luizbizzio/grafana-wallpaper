@@ -31,15 +31,13 @@ enabled = true
 org_name = Main Org.
 ```
 
-Be sure to save the file as an administrator, or use Notepad with administrator privileges.
-
 Save the file with administrator privileges, or use Notepad run as administrator. This configuration allows access to your dashboard without logging in, ensuring you don't need to log in each time the computer reboots.
 
 2.3 After saving the changes, restart the Grafana service or reboot the computer where Grafana is installed.
 
 ## 3.0 Setting Up Lively Wallpaper
 
-3.1 Open Lively Wallpaper and click on "Add New Wallpaper."
+3.1 Open Lively Wallpaper and click on "Add Wallpaper."
 
 <p align="center">
   <img src="step-2.png" alt="Step 2" width="400"/>
