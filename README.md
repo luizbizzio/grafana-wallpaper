@@ -7,7 +7,7 @@ This repository provides a step-by-step guide for setting up Grafana and display
 1.1 Download and install Lively Wallpaper for Windows from the [official website](https://www.rocksdanister.com/lively).
 
 <p align="center">
-  <img src="step-1.png" alt="Step 1" width="400"/>
+  <img src="step-1.png" alt="Step 1" width="500"/>
 </p>
 
 ## 2.0 Configuring Grafana
