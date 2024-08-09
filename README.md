@@ -70,7 +70,7 @@ Example: `http://localhost:3000/d/MdWKkr-4z/grafana-for-all?orgId=1`
 3.7 Click on the three dots of the created wallpaper and select "Set as Wallpaper." Your Grafana dashboard will now be displayed on your desktop.
 
 <p align="center">
-  <img src="step-5.png" alt="Step 5" width="500"/>
+  <img src="step-5.png" alt="Step 5" width="600"/>
 </p>
 
 ## Example photo:
@@ -88,7 +88,7 @@ Example: `http://localhost:3000/d/MdWKkr-4z/grafana-for-all?orgId=1`
 3.9 It is also recommended to enable "Start with Windows" and "System-Tray Icon" in Lively Wallpaper settings to ensure the wallpaper and application start automatically and function properly.
 
 <p align="center">
-  <img src="step-8.png" alt="Step 8" width="1000"/>
+  <img src="step-8.png" alt="Step 8" width="700"/>
 </p>
 
 And that's it! Your Grafana dashboard should now be set as your desktop wallpaper.
