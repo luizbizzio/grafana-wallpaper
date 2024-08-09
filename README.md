@@ -15,7 +15,7 @@ This repository provides a step-by-step guide for setting up Grafana and display
     C:\Program Files\GrafanaLabs\grafana\conf\defaults.ini
 
 2.2 Open the `defaults.ini` file and locate the `[auth.anonymous]` section. Make the following changes:
-
+ 
 ```ini
 [auth.anonymous]
 # enable anonymous access
