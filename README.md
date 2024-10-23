@@ -95,7 +95,8 @@ Example: `http://localhost:3000/d/MdWKkr-4z/grafana-for-all?orgId=1`
 
 And that's it! Your Grafana dashboard should now be set as your desktop wallpaper.
 
+## License 📄
 
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
