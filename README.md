@@ -75,7 +75,7 @@ Example: `http://localhost:3000/d/MdWKkr-4z/grafana-for-all?orgId=1`
   <img src="step-5.png" alt="Step 5" width="600"/>
 </p>
 
-## Example photo:
+## Example:
 
 <p align="center">
   <img src="step-6.png" alt="Step 6" width="1000"/>
