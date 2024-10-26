@@ -1,4 +1,4 @@
-# Grafana Wallpaper
+# Grafana Wallpaper 🖥️
 
 This repository provides a step-by-step guide for setting up Grafana and displaying dashboards as your desktop wallpaper using Lively Wallpaper.
 
@@ -6,7 +6,7 @@ This repository provides a step-by-step guide for setting up Grafana and display
   <img src="dashboard.png" alt="Dashboard" width="1000"/>
 </p>
 
-## 1.0 Installing Lively Wallpaper
+## 1.0 Installing Lively Wallpaper 🛠️
 
 1.1 Download and install Lively Wallpaper for Windows from the [official website](https://www.rocksdanister.com/lively).
 
@@ -14,7 +14,7 @@ This repository provides a step-by-step guide for setting up Grafana and display
   <img src="step-1.png" alt="Step 1" width="500"/>
 </p>
 
-## 2.0 Configuring Grafana
+## 2.0 Configuring Grafana ⚙️
 
 2.1 Before adding the Grafana dashboard to Lively Wallpaper, you need to adjust two settings in the `defaults.ini` file located at:
 
@@ -35,7 +35,7 @@ Save the file with administrator privileges, or use Notepad run as administrator
 
 2.3 After saving the changes, restart the Grafana service or reboot the computer where Grafana is installed.
 
-## 3.0 Setting Up Lively Wallpaper
+## 3.0 Setting Up Lively Wallpaper 🌈
 
 3.1 Open Lively Wallpaper and click on "Add Wallpaper."
 
